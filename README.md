@@ -1,4 +1,7 @@
-# Nihal K - Developer Extraordinaire
+![Banner Gif](./api.gif)
+
+
+# Nihal K
 
 Greetings! I'm Nihal K, a passionate developer with a flair for creating digital wonders. Here's a glimpse into my world:
 
