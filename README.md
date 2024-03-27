@@ -18,7 +18,7 @@ I weave digital magic through code, from crafting immersive web experiences to c
 ## Skills
 
 I wield a versatile arsenal of skills:
-- Languages: HTML, CSS, JavaScript, MySQL, Python, C++, C, PAWN.
+- Languages: HTML, CSS, JavaScript, MySQL, Python,Java, C++, C, PAWN.
 - Frameworks: React.js, Bootstrap.
 - Tools: Blender 3D, Figma, VSCode, Sublime, Geany, Turbo C. 
 - Creative Suite: Lightroom, Alight Motion, After Effects.
