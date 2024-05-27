@@ -5,37 +5,25 @@
 
 Greetings! I'm Nihal K, a passionate developer with a flair for creating digital wonders. Here's a glimpse into my world:
 
-## Short Bio
+I am a university student studying for a Bachelor's in Computer Applications at Srinivas University, Mangaluru, India. I love creating art in the forms of websites, videos, and images. I am still learning new things and will continue learning because that's what I like.
 
-I weave digital magic through code, from crafting immersive web experiences to conquering challenges in game development. An alchemist of technology, I merge creativity with logic to bring ideas to life.
-
-## Interests & Hobbies
-
-- **Tech Enthusiast:** Gamedev, webdev, problem-solving, and a dash of 3D animation.
-- **Multimedia Maven:** Video editing, photography, and content creation wizard.
-- **Leisure Explorer:** Chess, games, movies, series, anime, manga, and the cosmos intrigue me.
+Apart from coding, I also edit videos, and I love cars!
 
 ## Skills
+- HTML, CSS, JAVASCRIPT, REACTJS, PHP, BOOTSTRAP
+- Java, C++, C, Python, MySQL, MongoDB
+- ExpressJS, Discord.js
+- VSCode, IDX, Blender3D, Figma, SublimeText
+- Alight Motion, Adobe LightRoom, Capcut, NodeVideo, PixelLab. 
+- Footbal, Cricket, Gaming, Chess, Carroms
 
-I wield a versatile arsenal of skills:
-- Languages: HTML, CSS, JavaScript, MySQL, Python,Java, C++, C, PAWN.
-- Frameworks: React.js, Bootstrap.
-- Tools: Blender 3D, Figma, VSCode, Sublime, Geany, Turbo C. 
-- Creative Suite: Lightroom, Alight Motion, After Effects.
-- Real-world Skills: Football and dominating in FPS games.
+## Projects
 
-## Projects I'm Proud Of
+1. **TinyJets.io:** Web ShowCase, you will know once you try this...
+2. **Project Lyrics:** Interactive Music player with synced lyrics animation
 
-1. **TinyJets.io:** Soar through the digital skies in this thrilling online adventure.
-2. **Project Lyrics:** Elevate the music experience with dynamic lyrics and an interactive player.
-3. **Project Lifex:**
-4. **LXGW:** 
+Other projects in rep's
 
-## Current Focus
-
-Diving deeper into the artistry of Web Design, with a strong emphasis on front-end magic.
-
-## Connect With Me
 
 - **GitHub:** [ioNihal](https://github.com/ioNihal)
 - **LinkedIn:** [ionihal](https://in.linkedin.com/in/ionihal)
