@@ -38,7 +38,7 @@ Other projects in rep's
 </p>
 
 - **Email:** [nihal04x@gmail.com](mailto:nihal04x@gmail.com)
-- **Website:** Under construction, stay tuned for my digital domain! 😎
+- **Website:** www.ionihal.xyz
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ionihal&label=Profile%20views&color=0e75b6&style=flat" alt="ionihal" /> </p>
