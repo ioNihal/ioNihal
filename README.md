@@ -3,7 +3,7 @@
 
 ## Nihal K
 
-Greetings! I'm Nihal K, a passionate developer with a flair for creating digital wonders. Here's a glimpse into my world:
+Greetings! I'm a passionate developer with a flair for creating digital wonders. Here's a glimpse into my world:
 
 I am a university student studying for a Bachelor's in Computer Applications at Srinivas University, Mangaluru, India. I love creating art in the forms of websites, videos, and images. I am still learning new things and will continue learning because that's what I like.
 
