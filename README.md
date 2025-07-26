@@ -44,7 +44,7 @@ Other projects in rep's
 </p>
 
 - **Email:** [nihal04x@gmail.com](mailto:nihal04x@gmail.com)
-- **Website:** www.ionihal.xyz
+- **Website:** ionihal.vercel.app
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ionihal&label=Profile%20views&color=0e75b6&style=flat" alt="ionihal" /> </p>
