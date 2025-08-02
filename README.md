@@ -43,7 +43,7 @@
      - Smooth 60 FPS animations with requestAnimationFrame  
      - AI opponents with basic state machines  
      - Keyboard controls & health bars  
-   - **Play:** https://ioNihal.github.io/game2d-site  
+   - **Play:** https://ioNihal.github.io/game2dsite  
    - **Code:** https://github.com/ioNihal/Game2D 
 
 ---
