@@ -64,6 +64,4 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ioNihal&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ioNihal" alt="GitHub Streak" />
-</p>
+
