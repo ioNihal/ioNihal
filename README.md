@@ -14,7 +14,7 @@
 **Backend:** Node.js (Express.js) · MongoDB · PHP · MySQL  
 **Languages:** Python · Java · C++  
 **Tools & Design:** Git · VSCode · Figma · Blender3D  
-**Currently Learning:** TypeScript · FastAPI · Data Structures & Algorithms  
+**Currently Learning:** TypeScript · Tailwind CSS, Headless CMS 
 
 ---
 
