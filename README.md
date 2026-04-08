@@ -65,3 +65,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ioNihal&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
+---
+![Contributions](./contributions.jpeg)
+---
+
