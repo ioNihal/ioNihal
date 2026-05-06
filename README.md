@@ -10,11 +10,11 @@
 
 ## Skills
 
-**Frontend:** HTML5 · CSS3 · JavaScript · React.js · Next.js · Bootstrap  
-**Backend:** Node.js (Express.js) · MongoDB · PHP · MySQL  
-**Languages:** Python · Java · C++  
+**Frontend:** HTML5 · CSS3 · JavaScript · React.js · Next.js · TailwindCSS 
+**Backend:** Node.js (Express.js) · MongoDB · PHP · PostgresSQL 
+**Languages:** TypeScript · Python · Java · C++ · GoLang
 **Tools & Design:** Git · VSCode · Figma · Blender3D  
-**Currently Learning:** TypeScript · Tailwind CSS, Headless CMS 
+**Currently Learning:** DSA · System Design, Nextj 16 
 
 ---
 
