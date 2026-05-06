@@ -47,8 +47,8 @@
    - **Code:** https://github.com/ioNihal/Game2D 
 
 ---
-<p>
-   <img width=380 height=250 alt="rendercard image" src="https://rendercard.vercel.app/api/rendercard?title=Nihal+K&description=This+image+is+generated+using+an+image+genarator+API+I+made+cooooooool+right&theme=memphis" />
+<p align="center">
+   <img width=420 height=250 alt="rendercard image" src="https://rendercard.vercel.app/api/rendercard?title=Nihal+K&description=This+image+is+generated+using+an+image+genarator+API+I+made+cooooooool+right&theme=memphis" />
 </p>
 
 ---
