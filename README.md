@@ -24,33 +24,31 @@
 
 ## Projects
 
-1. **Inventory Management Dashboard**  
-   - **Stack:** React.js · Express.js · MongoDB  
+1. **Explore Kasaragod**  
+   - **Stack:** Next.js · TypeScript · Tailwind CSS · Prisma · PostgreSQL  
    - **Highlights:**  
-     - JWT-based authentication & role management  
-     - Dynamic search, filter, and chart components with Recharts  
-     - Deployed on Vercel (frontend) & Heroku (backend)   
-   - **Code:** https://github.com/ioNihal/sims-dashboard-front  
-
-2. **Kiosk Survey App**  
-   - **Stack:** Next.js · React Hooks · Local JSON storage  
+     - Built a lightweight, ad-free community-driven directory mapping Kasaragod's finest local food, sights, and services.  
+     - Designed with a premium, mobile-first "Warm Minimal" layout focused on privacy and zero-tracker browsing.  
+     - Engineered robust database schemas and search operations using Prisma and PostgreSQL.  
+   - **Live:** https://explorekasaragod.org  
+2. **RenderCard**  
+   - **Stack:** Next.js · Vercel Edge Runtime · Dynamic SVG Generation  
    - **Highlights:**  
-     - Offline-ready UX for touchscreen kiosks  
-     - Custom form builder with conditional logic  
-     - Export survey results as CSV  
-   - **Live:** https://kiosk-survey.vercel.app
-   - **Code:** https://github.com/ioNihal/survey-app  
-
-3. **2D Stickman Fighter Game**  
-   - **Stack:** HTML5 Canvas · JavaScript  
+     - Engineered a dynamic Open Graph (OG) image generation API that designs custom social preview cards in real-time.  
+     - Powered by Vercel Edge Runtime for blazing-fast generation with global edge caching and minimal cold-start times.  
+     - 100% customizable templates driven dynamically by URL parameters.  
+   - **Live:** https://rendercard.vercel.app  
+3. **Formcord**  
+   - **Stack:** Node.js · Edge Runtime · Web APIs · Discord API  
    - **Highlights:**  
-     - Smooth 60 FPS animations with requestAnimationFrame  
-     - AI opponents with basic state machines  
-     - Keyboard controls & health bars  
-   - **Play:** https://ioNihal.github.io/game2dsite  
-   - **Code:** https://github.com/ioNihal/Game2D 
+     - Developed a zero-dependency npm library and notification layer connecting client-side forms straight to Discord webhooks.  
+     - Built to run seamlessly across all modern JS environments (Node, Serverless, and Edge) using pure Web APIs.  
+     - Published as a lightweight, developer-friendly npm package.  
+   - **Live:** https://formcord.vercel.app  
+   - **Code:** https://github.com/ioNihal/formcord  
 
 ---
+
 <p align="center">
    <img width=420 height=250 alt="rendercard image" src="https://rendercard.vercel.app/api/rendercard?title=Nihal+K&description=This+image+is+generated+using+an+image+genarator+API+I+made+cooooooool+right&theme=memphis" />
 </p>
