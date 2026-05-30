@@ -2,7 +2,7 @@
 
 # Nihal K
 
-👋 Hi, I’m **Nihal**, a BCA graduate specialised in Software Development And Web Design from Srinivas University, Mangaluru. I build fast, responsive web apps with React, Next.js, and Node.js and I’m always learning something new!
+👋 Hi, I’m **Nihal**, a **Full-Stack Developer & Software Engineer** specialized in crafting high-performance web systems, developer APIs, and open-source packages. Focused on TypeScript, Next.js, Node.js, and database engineering (Prisma, PostgreSQL), I build fast, privacy-conscious, and scalable digital solutions.
 
 💬 Feel free to explore my work or reach out for collaboration!
 
@@ -10,15 +10,15 @@
 
 ## Skills
 
-**Frontend:** HTML5 · CSS3 · JavaScript · React.js · Next.js · TailwindCSS
+**Frontend:** HTML5 · CSS3 · JavaScript · TypeScript · React.js · Next.js · TailwindCSS
 
-**Backend:** Node.js (Express.js) · MongoDB · PHP · PostgresSQL
+**Backend:** Node.js (Express.js) · Prisma ORM · PostgreSQL · MongoDB · PHP
 
-**Languages:** TypeScript · Python · Java · C++ · GoLang
+**Languages:** TypeScript · JavaScript · Python · Java · C++ · GoLang
 
-**Tools & Design:** Git · VSCode · Figma · Blender3D  
+**Tools & Design:** Git · VSCode · Figma · Vercel · NPM Publishing · Blender3D  
 
-**Currently Learning:** DSA · System Design · Nextj 16 
+**Currently Learning:** DSA · System Design · Next.js 16 
 
 ---
 
@@ -31,6 +31,7 @@
      - Designed with a premium, mobile-first "Warm Minimal" layout focused on privacy and zero-tracker browsing.  
      - Engineered robust database schemas and search operations using Prisma and PostgreSQL.  
    - **Live:** https://explorekasaragod.org  
+
 2. **RenderCard**  
    - **Stack:** Next.js · Vercel Edge Runtime · Dynamic SVG Generation  
    - **Highlights:**  
@@ -38,6 +39,7 @@
      - Powered by Vercel Edge Runtime for blazing-fast generation with global edge caching and minimal cold-start times.  
      - 100% customizable templates driven dynamically by URL parameters.  
    - **Live:** https://rendercard.vercel.app  
+
 3. **Formcord**  
    - **Stack:** Node.js · Edge Runtime · Web APIs · Discord API  
    - **Highlights:**  
@@ -76,4 +78,3 @@
 ### Work Account
 ![Contributions](./contributions.jpeg)
 ---
-
